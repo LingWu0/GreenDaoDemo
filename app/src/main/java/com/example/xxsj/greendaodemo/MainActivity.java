@@ -13,6 +13,7 @@ import bean.UserBean;
 
 public class MainActivity extends AppCompatActivity {
 
+    //控件
     private Button add;
     private ListView lv;
 
